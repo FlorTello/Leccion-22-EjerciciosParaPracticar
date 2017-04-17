@@ -23,14 +23,13 @@ div.a3,div.b3,div.c3{
   display: inline;
   margin: 10px;
   height: 70px;
-  width: 300px;
 }
 
 div.a4,div.b4,div.c4{
   display: inline-block;
   margin: 10px;
   height: 70px;
-  width: 300px;
+  width: 370px;
 }
 
 .eje5{
@@ -46,7 +45,7 @@ div.a4,div.b4,div.c4{
   width: 300px;
   background-color: grey;
   margin: 10px;
-  padding: 0;
+  padding: 0px;
   border: solid;
 }
 .eje5-content3 > div{
